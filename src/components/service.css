@@ -1,0 +1,29 @@
+.container{
+    width: 100vw;
+}
+
+
+.services{
+    width: 94%;
+    margin-top: -140px;
+    background-color: #efefef; 
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    padding: 0px;
+    text-align: left;
+    margin-left: 3%;
+    margin-right: 3%;
+
+}
+
+ 
+.about-container{
+    text-align: left;
+    width: 80%;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 60px;
+    text-justify: auto;
+    padding-bottom: 20px;
+}
+
+
